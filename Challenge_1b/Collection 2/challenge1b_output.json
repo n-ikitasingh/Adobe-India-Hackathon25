@@ -1,0 +1,458 @@
+{
+  "persona": {
+    "role": "HR professional"
+  },
+  "job": "",
+  "documents": [
+    {
+      "filename": "Learn Acrobat - Create and Convert_1.pdf",
+      "sections": [
+        {
+          "heading": "What’s the best way to create a PDF?",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "PDF creation methods by file type",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign®",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "files, digital images, and more. Diﬀerent types of sources have diﬀerent tools available for PDF",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "conversion. In many applications, you can create PDFs by selecting the Adobe PDF printer in",
+          "page": 2,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Learn Acrobat - Create and Convert_2.pdf",
+      "sections": [
+        {
+          "heading": "Select Visio layers to convert (Acrobat Pro)",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Note: If you select Retain Some Layers In The Selected Page, you’ll be prompted to",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "choose which Visio layers to include.",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "1.Click Convert To Adobe PDF, specify a location and filename, and click Save.",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "You can convert a Visio drawing that contains layers to a PDF and retain some or all of the",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Learn Acrobat - Edit_1.pdf",
+      "sections": [
+        {
+          "heading": "Edit text in a PDF",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "Open the PDF you want to edit in Acrobat, and then select Edit in the global bar.",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "The PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "scanned document, Acrobat automatically runs OCR to make the text and images editable.",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "The Edit panel includes options to modify the page, add content, redact a PDF, and convert",
+          "page": 2,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Learn Acrobat - Edit_2.pdf",
+      "sections": [
+        {
+          "heading": "Export PDF images to another format",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "1.Make the desired changes in the app. Bear in mind the following:",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "If you change the dimensions of the image, the image may not align correctly in",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "the PDF.",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Transparency information is preserved only for masks that are specified as",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Learn Acrobat - Export_1.pdf",
+      "sections": [
+        {
+          "heading": "Export",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "Save a PDF",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "You can save your changes to an Adobe PDF or PDF Portfolio in the original PDF or in a copy",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "of the PDF. You can also save individual PDFs to other file formats, including text, XML,",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "HTML, and Microsoft Word.",
+          "page": 2,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Learn Acrobat - Export_2.pdf",
+      "sections": [
+        {
+          "heading": "Copy images",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Use the Select tool to copy and paste individual images from a PDF to the clipboard, another",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "application, or a file.",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Open the Preferences dialog box if you cannot select an image because of overlapping text.",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Select Acrobat in the upper-left (macOS) or Menu in the upper-left (Windows), then",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Learn Acrobat - Fill and Sign.pdf",
+      "sections": [
+        {
+          "heading": "Fill and Sign PDF Forms",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "You can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "of PDF forms",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Types of PDF forms",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "Fill and sign PDF forms",
+          "page": 2,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Learn Acrobat - Generative AI_1.pdf",
+      "sections": [
+        {
+          "heading": "Overview of generative AI features",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "Use the generative AI features in Acrobat and Acrobat Reader to quickly scan through",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "lengthy, complex PDF content and get answers or generate a summary.",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "Note: The generative AI features in Acrobat and Acrobat Reader support English, French,",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "German, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms,",
+          "page": 2,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Learn Acrobat - Generative AI_2.pdf",
+      "sections": [
+        {
+          "heading": "Persistent chat history",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Note:",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "The option Enable generative AI features in Acrobat is displayed only if you",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "previously opted in for the generative AI features.",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "You can access your conversation threads with Acrobat's AI Assistant across sessions. You can",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Learn Acrobat - Request e-signatures_1.pdf",
+      "sections": [
+        {
+          "heading": "Send a document to get signatures from",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "others",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "1.Open the PDF form in Acrobat or Acrobat Reader, and then choose All",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "tools > Request E-signatures. Alternatively, you can select Sign from the top toolbar.",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "2.The Request Signatures window is displayed. It displays the fields progressively as you",
+          "page": 2,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Learn Acrobat - Request e-signatures_2.pdf",
+      "sections": [
+        {
+          "heading": "Adobe LiveCycle Rights Management",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "(ALCRM) servers",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "What is a digital signature?",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Why validate a digital signature?",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Adobe LiveCycleRights Management (ALCRM) servers let you define centralized policies to",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Learn Acrobat - Share_1.pdf",
+      "sections": [
+        {
+          "heading": "Share",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "PDF sharing options",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "You can quickly share a link to a PDF document with others for viewing or commenting. The",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "document shared as a link opens in any browser on any device. The document is stored",
+          "page": 2,
+          "score": 0.9
+        },
+        {
+          "heading": "securely in Adobe cloud storage. Recipients get an email with a link, and they can click the",
+          "page": 2,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Learn Acrobat - Share_2.pdf",
+      "sections": [
+        {
+          "heading": "Add comments while viewing a PDF",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "document",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "You can now use quick actions in a floating toolbar to add comments while viewing a PDF.",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "The following quick actions are available for commenting based on your selection in a PDF:",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Actions on image selection: When you select an image you can perform actions like",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "Test Your Acrobat Exporting Skills.pdf",
+      "sections": [
+        {
+          "heading": "Export Expert: Test Your Acrobat Exporting Skills",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "about saving, converting, and exporting PDFs? It's time to put your knowledge to the test.",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Dive into real-world scenarios, answer intriguing questions, and see if you have what it takes",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "to be a true PDF exporting pro",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "The Ultimate PDF Sharing Checklist.pdf",
+      "sections": [
+        {
+          "heading": "The Ultimate PDF Sharing Checklist",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Sharing PDFs can be a breeze with Adobe Acrobat. Whether you're",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "collaborating on a project, seeking feedback, or simply distributing",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "information, this checklist will ensure you cover all the bases. Let's dive",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "into the essentials of sharing PDFs effectively.",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "persona": {
+    "role": "Travel Planner"
+  },
+  "job": "",
+  "documents": [
+    {
+      "filename": "South of France - Cities.pdf",
+      "sections": [
+        {
+          "heading": "Comprehensive Guide to Major Cities in the South of France",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Introduction",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "The South of France, known for its stunning landscapes, Mediterranean coastline, and rich",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "cultural heritage, is home to some of the most beautiful and historically significant cities in the",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "country. This guide provides an in-depth look at the major cities in the South of France,",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "South of France - Cuisine.pdf",
+      "sections": [
+        {
+          "heading": "A Culinary Journey Through the South of France",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Introduction",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "The South of France, known for its stunning landscapes and charming villages, is also a",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "paradise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors,",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "fresh ingredients, and traditional recipes passed down through generations. This guide will",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "South of France - History.pdf",
+      "sections": [
+        {
+          "heading": "A Historical Journey Through the South of France",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Introduction",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "The South of France, renowned for its picturesque landscapes, charming villages, and",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "stunning coastline, is also steeped in history. From ancient Roman ruins to medieval",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "fortresses and Renaissance architecture, this region oﬀers a fascinating glimpse into the past.",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "South of France - Restaurants and Hotels.pdf",
+      "sections": [
+        {
+          "heading": "Comprehensive Guide to Restaurants and Hotels in the South of France",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Introduction",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "cuisine, is a dream destination for travelers. From the glamorous beaches of the French",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Riviera to the charming villages of Provence, this region oﬀers a diverse array of experiences.",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "South of France - Things to Do.pdf",
+      "sections": [
+        {
+          "heading": "Ultimate Guide to Activities and Things to Do in the South of France",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Introduction",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "The South of France, with its stunning coastline, picturesque villages, and vibrant cities, oﬀers",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "a wealth of activities and experiences for travelers. Whether you're seeking adventure,",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "relaxation, or cultural enrichment, this region has something for everyone. This guide will",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "South of France - Tips and Tricks.pdf",
+      "sections": [
+        {
+          "heading": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing,",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Planning, and Exploring",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Introduction",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Planning a trip to the South of France requires thoughtful preparation to ensure a",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "comfortable and enjoyable experience. This guide covers everything from packing essentials",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "filename": "South of France - Traditions and Culture.pdf",
+      "sections": [
+        {
+          "heading": "A Comprehensive Guide to Traditions and Culture in the South of France",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "Introduction",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "The South of France, with its picturesque landscapes, charming villages, and vibrant cities, is",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "not only a feast for the eyes but also a treasure trove of cultural traditions and heritage. This",
+          "page": 1,
+          "score": 0.9
+        },
+        {
+          "heading": "region, known for its rich history and diverse influences, oﬀers a unique blend of customs,",
+          "page": 1,
+          "score": 0.9
+        }
+      ]
+    }
+  ]
+}
